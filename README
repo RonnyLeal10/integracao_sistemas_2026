@@ -3,3 +3,7 @@ Este repositório destina-se à realização e documentação das atividades pr�
 
 ## Controlo de versões
 O Git será utilizado para registar as alterações, acompanhar a evolução dos ficheiros e facilitar a recuperação de versões anteriores.
+
+
+# Papel de controlo de versão na restreabilidade e evolução dos artefatos produzidos ao longo desta UC
+O controlo de versão é a prática de rastrear e gerir as alterações em um código ou um ficheiro, neste caso, vai ser para rastrear cada alteração feita aos artefatos produzidos nesta UC, associando a um autor, data e uma mensagem de commit. Assim, é possível acompanhar a evolução de um trabalho, comparar versões e até reverter os erros sem perder o que já funciona. Partindo do ponto que vai se utilizar diferentes sistemas num ecossistema, vai ser muito importante. O repositório remoto serve ainda como uma cópia de segurança e o ponto central entre os colaboradores.  
